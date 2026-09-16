@@ -10,20 +10,8 @@
 
 ## Peut on modifier le contexte d'un LLM local et si oui comment ? ##
 
-- 
+- Ajouter une base en PDF à ingérer pour l'IA via le GUI ou par le terminal avec une base de données et qui se fait avec une pipeline automatisée.
 
 ## Comment faire ingérer à votre LLM local le contenu d'un dossier avec quelques PDF? ##
 
-- 
-
-## Comment modifier le comportement général de notre LLM Local à l'aide d'un fichier ? ##
-
-- 
-
-## Prouver que votre LLM local à pu ingérer correctement les données de fichiers PDF ##
-
-- 
-
-## Comment forcer votre LLM local à aller chercher ce qu'il ne sait pas sur Internet, est-ce possible? et si oui comment ? ##
-
-- 
+- Par le GUI 
