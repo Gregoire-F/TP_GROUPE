@@ -1,3 +1,1 @@
-*** Lexique IA ***
-
-#
+### Lexique IA ###
